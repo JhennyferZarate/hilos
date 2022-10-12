@@ -1,0 +1,15 @@
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\bin\Debug\net6.0\proyectoHilos.exe
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\bin\Debug\net6.0\proyectoHilos.deps.json
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\bin\Debug\net6.0\proyectoHilos.runtimeconfig.json
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\bin\Debug\net6.0\proyectoHilos.dll
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\bin\Debug\net6.0\proyectoHilos.pdb
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\proyectoHilos.csproj.AssemblyReference.cache
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\proyectoHilos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\proyectoHilos.AssemblyInfoInputs.cache
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\proyectoHilos.AssemblyInfo.cs
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\proyectoHilos.csproj.CoreCompileInputs.cache
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\proyectoHilos.dll
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\refint\proyectoHilos.dll
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\proyectoHilos.pdb
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\proyectoHilos.genruntimeconfig.cache
+D:\GitHub\hilos\c#\proyectoHilos\proyectoHilos\obj\Debug\net6.0\ref\proyectoHilos.dll
